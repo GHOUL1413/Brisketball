@@ -5,4 +5,6 @@ Launch Brisketball.exe to play the game. Use WASD to move, hold space to use you
 
 As this was a totally unnecessary game prototype for a game design university unit, many features were not added or considered, and many bugs were not fixed, for example there is no end game. The cows work really well for 3 days work, but still have many issues. The lack of multiplayer is also obviously missing, it was just way out of scope for something that was not required in the first place. Still had a ball making it, and was my first 'completed' project.
 
+Assume textures, models, and SFX are not created by me. The list of asset sources has been lost, as I have since lost contact with the person who managed the project and I kept no local records of the source of used assets. I take no credit for the cow model, ball texture, grass texture, or any sound effects.
+
 ![Preview:](https://github.com/GHOUL1413/Brisketball/blob/main/preview.PNG)
